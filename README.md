@@ -1,5 +1,8 @@
 # CHEF: ChillHack Easy Fuzzing
 
+<img width="1920" height="800" alt="chef" src="https://github.com/user-attachments/assets/a9e8b8c2-33ac-45a1-a277-9e85c5708168" />
+
+
 **CHEF (ChillHack Easy Fuzzing)** is a powerful, versatile network protocol fuzzing tool developed by **ChillHack Hong Kong Web Development**. Designed as a Swiss Army knife for security researchers and penetration testers, CHEF enables aggressive fuzzing of various network protocols to uncover vulnerabilities, such as stack buffer overflows and zero-day exploits, in a controlled and authorized environment.
 
 - **Developer**: ChillHack Hong Kong Web Development
